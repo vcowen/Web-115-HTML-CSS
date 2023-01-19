@@ -1,1 +1,15 @@
+h1{
+    font-size: 3em;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
 
+header{
+    text-align: center;
+    font-size: 4em;
+}
+
+div{
+    display: block;
+
+}
